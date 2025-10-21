@@ -21,3 +21,7 @@
    ```
 
 3. **Open browser:** Navigate to `http://localhost:3000`
+
+
+https://github.com/user-attachments/assets/ff43df0b-c480-4d14-9d7c-72ddc17ed8c3
+
